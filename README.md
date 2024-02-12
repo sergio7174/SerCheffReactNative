@@ -49,8 +49,8 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ##  Key Features:
 
 - Choose Diferents Kinds of Recipes
-- See from Youtube th video Recipe
-- Get the List of Elements and Preparition of Recipes
+- See from Youtube the video Recipe
+- Get the List of Elements and preparation of Recipes
 - Choose Favorite Recipes
 
   
