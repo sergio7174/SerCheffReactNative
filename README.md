@@ -1,7 +1,7 @@
 <h1 align ="center" > 🏆 SerCheff - Food Recipe App  </h1>
-<h1  align ="center"> 
+<h3  align ="center"> 
 a mobile application where users can search, view, and add favorite your own food recipes. This application is built using 
-  technologies such as React Native, Redux Toolkit, NativeWind, Expo CLI, React Navigation, React Native Reanimated, and Axios. </h1>
+  technologies such as React Native, Redux Toolkit, NativeWind, Expo CLI, React Navigation, React Native Reanimated, and Axios. </h3>
 <br>
 
   * [Configuration and Setup](#configuration-and-setup)
@@ -43,12 +43,12 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 <br>
 ##  Screenshots:
 <br>
-<img src="./ProjectImages/IMAGE01.jpg" alt="project screenshot01" />
-<img src="./ProjectImages/IMAGE02.jpg" alt="project screenshot02" />
-<img src="./ProjectImages/IMAGE03.jpg" alt="project screenshot03" />
-<img src="./ProjectImages/IMAGE04.jpg" alt="project screenshot04" />
-<img src="./ProjectImages/IMAGE05.jpg" alt="project screenshot05" />
-<img src="./ProjectImages/IMAGE06.jpg" alt="project screenshot06" />
+<img src="./ProjectImages/image01.jpg" alt="project screenshot01" />
+<img src="./ProjectImages/image02.jpg" alt="project screenshot02" />
+<img src="./ProjectImages/image03.jpg" alt="project screenshot03" />
+<img src="./ProjectImages/image04.jpg" alt="project screenshot04" />
+<img src="./ProjectImages/image05.jpg" alt="project screenshot05" />
+<img src="./ProjectImages/image06.jpg" alt="project screenshot06" />
 <br>
 
 ##  Key Features:
