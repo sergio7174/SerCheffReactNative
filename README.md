@@ -36,10 +36,6 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ![Static Badge](https://img.shields.io/badge/expo-%23E89F28?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/axios-%23D1D1D1?style=for-the-badge)
 
-
-
-
-
 <br>
 ##  Screenshots:
 <br>
@@ -53,10 +49,10 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 
 ##  Key Features:
 
-- User registration and login.
-- Authentication. 
-- Add, edit, delete Notes.
-- Email and Password Validation.
+- Choose Diferents Kinds of Recipes
+- See from Youtube th video Recipe
+- Get the List of Elements and Preparition of Recipes
+- Choose Favorite Recipes
 
   
 <br/>
@@ -71,10 +67,8 @@ This project was created using the following technologies.
  It is a framework developed by Facebook for creating native-style apps for iOS & Android under one common language, JavaScript.
 - [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
 - [react-navigation/native](https://reactnavigation.org/)) - To handle routing
-- [Firebase](https://firebase.google.com/?gad_source=1&gclid=Cj0KCQiAoKeuBhCoARIsAB4Wxte5kKnjJzYp7DGbeK4wD-BU_i0Oke02VWuSac2NMBDt4wD48sqWYuUaAsBREALw_wcB&gclsrc=aw.ds&hl=es-419) - es una base de datos NoSQL alojada en la nube que te permite almacenar y sincronizar datos entre tus usuarios en tiempo real.
 - [RN - styled Components](https://styled-components.com/docs/basics) - Utilises tagged template literals to style your components
 - [React Redux-toolkit](https://react-redux.js.org/) - manage application state efficiently and provide a more structured mechanism for managing data
-- [rn flash message](https://www.npmjs.com/package/react-native-flash-message) - Is a React Native module to help you easily create highly customizable flashbars, top notifications or alerts (with iPhone X, XR, XS and XS Max "notch" support).
 - [Tailwind]
 
 ## Author
