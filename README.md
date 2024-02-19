@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆 SerCheff - Food Recipe App  </h1>
+<h1 align ="center" > 🌮🍕🥪 SerCheff - Food Recipe App  </h1>
 <h3  align ="center"> 
 A mobile application where users can search, view, and add favorite your own food recipes. This application is built using 
   technologies such as React Native, Redux Toolkit, NativeWind, Expo CLI, React Navigation, React Native Reanimated, and Axios. </h3>
